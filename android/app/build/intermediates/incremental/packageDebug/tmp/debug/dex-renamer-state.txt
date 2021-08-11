@@ -1,0 +1,4 @@
+#Thu Jul 22 20:41:57 COT 2021
+base.0=C\:\\Users\\PC\\Desktop\\MovieReactNative\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
